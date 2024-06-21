@@ -28,9 +28,10 @@ My name is Muhammad Ammar Yaseer Bin Azizan, but you can call me Ammar. I'm curr
 ---
 
 #### 📫 How to Reach Me
-- **Email**: ammar321an@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/muhammad-ammar-yaseer-azizan-48b28a235/
-- **GitHub**: https://github.com/ammar321an
+[![Email](https://img.shields.io/badge/Email-ammar321an@gmail.com-red)](mailto:ammar321an@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muhammad-ammar-yaseer-azizan-48b28a235/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/ammar321an)
+[![Linktree](https://img.shields.io/badge/Linktree-Visit-green)](https://linktr.ee/ammarysr)
 
 ---
 
@@ -45,18 +46,26 @@ I have an insatiable curiosity for software development. If there's something ab
 ---
 
 ### Skills & Expertise
-- **Languages**: Python, PHP, C#, C++, C, Java
-- **Frameworks**: Laravel
-- **Tools**: SolidWorks, Raspberry Pi, Raspbian, Arduino Uno, Local (WordPress), PCA9685 PWM Servo Driver
-- **Areas**: AI Model Implementation in Robotics, Object Detection, Mobile App Development, Website Development
+
+| **Languages**     | **Frameworks** | **Tools**                                    | **Areas**                              |
+|-------------------|-----------------|---------------------------------------------|----------------------------------------|
+| Python            | Laravel         | SolidWorks                                  | AI Model Implementation in Robotics    |
+| PHP               |                 | Raspberry Pi                                | Object Detection                       |
+| C#                |                 | Raspbian                                    | Mobile App Development                 |
+| C++               |                 | Arduino Uno                                 | Website Development                    |
+| C                 |                 | Local (WordPress)                           |                                        |
+| Java              |                 | PCA9685 PWM Servo Driver                    |                                        |
+|                   |                 | Arduino IDE, Visual Studio 2022, VS Code, Thonny IDE, Android Studio, Local (WordPress) |                                        |
 
 ---
 
 ### Projects
-- **Final Year Project**: 'NERF TURRET-INSPIRED GARDEN GUARDIAN: COMPUTER VISION & IoT MONKEY DETERRENCE'
-- **CAPSTONE Competition**: Group leader in developing a robot to deter monkeys from gardens using non-harmful methods with IoT features.
-- **Payment Gateway Integration**: Developed a website with a SecurePay Sandbox payment gateway using Laravel, ensuring secure and seamless transactions.
-- **Internship at Jabil P8**: Created a fully automated website for employee use, streamlining internal processes and improving efficiency during my internship.
+| **Project**                                                  | **Description**                                                                                                                 |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **[Final Year Project](https://github.com/ammar321an/FYP-Project)**          | 'NERF TURRET-INSPIRED GARDEN GUARDIAN: COMPUTER VISION & IoT MONKEY DETERRENCE'                                                 |
+| **[CAPSTONE Competition](https://github.com/ammar321an/Capstone-Project)**   | Group leader in developing a robot to deter monkeys from gardens using non-harmful methods with IoT features.                    |
+| **Payment Gateway Integration**                              | Developed a website with a SecurePay Sandbox payment gateway using Laravel, ensuring secure and seamless transactions.           |
+| **Internship at Jabil P8**                                    | Created a fully automated website for employee use, streamlining internal processes and improving efficiency during my internship.|
 
 ---
 
