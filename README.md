@@ -13,10 +13,11 @@ My name is Muhammad Ammar Yaseer Bin Azizan, but you can call me Ammar. I'm curr
 ---
 
 #### 🌱 Currently Learning
-- Advanced AI Model Implementation
+- AI Model Implementation
 - Embedded Systems Integration
 - Optimization of Computer Vision Algorithms for Edge Devices
 - Laravel (Website Development)
+- Visual Studio Code, Visual Studio 2022 (ASPX.net C#), Local (WordPress)
 
 ---
 
@@ -55,7 +56,9 @@ I have an insatiable curiosity for software development. If there's something ab
 | C++               |                 | Arduino Uno                                 | Website Development                    |
 | C                 |                 | Local (WordPress)                           |                                        |
 | Java              |                 | PCA9685 PWM Servo Driver                    |                                        |
-|                   |                 | Arduino IDE, Visual Studio 2022, VS Code, Thonny IDE, Android Studio, Local (WordPress) |                                        |
+| HTML              |                 | Arduino IDE, Visual Studio 2022, VS Code, Thonny IDE, Android Studio, Local (WordPress) |                                        |
+| CSS               |                 | SSMS, Heidi SQL, MySQL                      |                                        |
+| SQL               |                 |                                             |                                        |
 
 ---
 
@@ -66,6 +69,7 @@ I have an insatiable curiosity for software development. If there's something ab
 | **[CAPSTONE Competition](https://github.com/ammar321an/Capstone-Project)**   | Group leader in developing a robot to deter monkeys from gardens using non-harmful methods with IoT features.                    |
 | **Payment Gateway Integration**                              | Developed a website with a SecurePay Sandbox payment gateway using Laravel, ensuring secure and seamless transactions.           |
 | **Internship at Jabil P8**                                    | Created a fully automated website for employee use, streamlining internal processes and improving efficiency during my internship.|
+| **Local WordPress Development**                              | Developed and customized WordPress sites and plugins using Local by Flywheel, enhancing website functionality and user experience.|
 
 ---
 
