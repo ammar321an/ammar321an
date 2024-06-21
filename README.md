@@ -6,9 +6,9 @@ My name is Muhammad Ammar Yaseer Bin Azizan, but you can call me Ammar. I'm curr
 
 #### 👀 Interests
 - Software Development (Mobile and Web)
+- Database Management
 - Embedded Systems
 - Artificial Intelligence in Robotics (Object Detection)
-- Database Management
 
 ---
 
@@ -23,6 +23,7 @@ My name is Muhammad Ammar Yaseer Bin Azizan, but you can call me Ammar. I'm curr
 
 #### 💞️ Looking to Collaborate On
 - Innovative software development projects
+- Full-stack development opportunities
 - AI and Machine Learning initiatives
 - Embedded systems projects, particularly those involving IoT and robotics
 
@@ -54,18 +55,18 @@ I have an insatiable curiosity for software development. If there's something ab
 | PHP               |                 | Raspberry Pi                                | Object Detection                       |
 | C#                |                 | Raspbian                                    | Mobile App Development                 |
 | C++               |                 | Arduino Uno                                 | Website Development                    |
-| C                 |                 | Local (WordPress)                           |                                        |
-| Java              |                 | PCA9685 PWM Servo Driver                    |                                        |
-| HTML              |                 | Arduino IDE, Visual Studio 2022, VS Code, Thonny IDE, Android Studio, Local (WordPress) |                                        |
+| C                 |                 | Local (WordPress)                           | Embedded System                        |
+| Java              |                 | Android Studio                              |                                        |
+| HTML              |                 | Arduino IDE, Visual Studio 2022, VS Code, Thonny IDE |                                        |
 | CSS               |                 | SSMS, Heidi SQL, MySQL                      |                                        |
-| SQL               |                 |                                             |                                        |
+| SQL               |                 | Blynk, Arduino Cloud                        |                                        |
 
 ---
 
 ### Projects
 | **Project**                                                  | **Description**                                                                                                                 |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
-| **[Final Year Project](https://github.com/ammar321an/FYP-Project)**          | 'NERF TURRET-INSPIRED GARDEN GUARDIAN: COMPUTER VISION & IoT MONKEY DETERRENCE'                                                 |
+| **[Final Year Project](https://github.com/ammar321an/FYP-Project)**          | NERF TURRET-INSPIRED GARDEN GUARDIAN: COMPUTER VISION & IoT MONKEY DETERRENCE                                                 |
 | **[CAPSTONE Competition](https://github.com/ammar321an/Capstone-Project)**   | Group leader in developing a robot to deter monkeys from gardens using non-harmful methods with IoT features.                    |
 | **Payment Gateway Integration**                              | Developed a website with a SecurePay Sandbox payment gateway using Laravel, ensuring secure and seamless transactions.           |
 | **Internship at Jabil P8**                                    | Created a fully automated website for employee use, streamlining internal processes and improving efficiency during my internship.|
