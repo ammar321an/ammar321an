@@ -52,13 +52,13 @@ I have an insatiable curiosity for software development. If there's something ab
 | **Languages**     | **Frameworks** | **Tools**                                    | **Areas**                              |
 |-------------------|-----------------|---------------------------------------------|----------------------------------------|
 | Python            | Laravel         | SolidWorks                                  | AI Model Implementation in Robotics    |
-| PHP               |                 | Raspberry Pi                                | Object Detection                       |
-| C#                |                 | Raspbian                                    | Mobile App Development                 |
-| C++               |                 | Arduino Uno                                 | Website Development                    |
+| PHP               | Django          | Raspberry Pi                                | Object Detection                       |
+| C#                | Flask           | Raspbian                                    | Mobile App Development                 |
+| C++               | .Net            | Arduino Uno                                 | Website Development                    |
 | C                 |                 | Local (WordPress)                           | Embedded System                        |
 | Java              |                 | Android Studio                              |                                        |
 | HTML              |                 | Arduino IDE, Visual Studio 2022, VS Code, Thonny IDE |                                        |
-| CSS               |                 | SSMS, Heidi SQL, MySQL                      |                                        |
+| CSS               |                 | SSMS, Heidi SQL, MySQL, PostgreSQL          |                                        |
 | SQL               |                 | Blynk, Arduino Cloud                        |                                        |
 
 ---
@@ -66,6 +66,7 @@ I have an insatiable curiosity for software development. If there's something ab
 ### Projects
 | **Project**                                                  | **Description**                                                                                                                 |
 |--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **[Django CRUD Operation](https://github.com/ammar321an/Django-CRUD-Operation)**  | This simple project features login, registration, and a dashboard, built using the Django framework for CRUD operations with a MySQL database. |
 | **[Final Year Project](https://github.com/ammar321an/FYP-Project)**          | NERF TURRET-INSPIRED GARDEN GUARDIAN: COMPUTER VISION & IoT MONKEY DETERRENCE                                                 |
 | **[CAPSTONE Competition](https://github.com/ammar321an/Capstone-Project)**   | Group leader in developing a robot to deter monkeys from gardens using non-harmful methods with IoT features.                    |
 | **Payment Gateway Integration**                              | Developed a website with a SecurePay Sandbox payment gateway using Laravel, ensuring secure and seamless transactions.           |
